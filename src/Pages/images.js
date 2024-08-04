@@ -1,0 +1,244 @@
+
+
+import p0 from '..\\image\\To_1.png'; 
+import p1 from '..\\image\\To_1.png';
+import p2 from '..\\image\\To_2.png';
+import p3 from '..\\image\\To_3.png';
+import p4 from '..\\image\\To_4.png';
+import p5 from '..\\image\\To_5.png';
+import p6 from '..\\image\\To_6.png';
+import p7 from '..\\image\\To_7.png';
+import p8 from '..\\image\\To_8.png';
+import p9 from '..\\image\\To_9.png';
+import p10 from '..\\image\\To_10.png';
+import p11 from '..\\image\\Pe_11.png';
+import p12 from '..\\image\\No_12.png';
+import p13 from '..\\image\\Bi_13.png';
+import p14 from '..\\image\\No_14.png';
+import p15 from '..\\image\\No_15.png';
+import p16 from '..\\image\\No_16.png';
+import p17 from '..\\image\\No_17.png';
+import p18 from '..\\image\\Me_No_18.png';
+import p19 from '..\\image\\No_19.png';
+import p20 from '..\\image\\No_20.png';
+import p21 from '..\\image\\No_Ki_21.png';
+import p22 from '..\\image\\Ki_22.png';
+import p23 from '..\\image\\No_23.png';
+import p24 from '..\\image\\Fr_Me_24.png';
+import p25 from '..\\image\\No_Me_25.png';
+import p26 from '..\\image\\Fr_Me_26.png';
+import p27 from '..\\image\\Me_Fu_27.png';
+import p28 from '..\\image\\Me_No_28.png';
+import p29 from '..\\image\\Me_29.png';
+import p30 from '..\\image\\Me_30.png';
+import p31 from '..\\image\\Fu_No_31.png';
+import p32 from '..\\image\\No_Fu_32.png';
+import p33 from '..\\image\\Fr_Me_No_33.png';
+import p34 from '..\\image\\No_34.png';
+import p35 from '..\\image\\Fu_No_35.png';
+import p36 from '..\\image\\Fu_36.png';
+import p37 from '..\\image\\Fr_Fu_Me_No_37.png';
+import p38 from '..\\image\\Lo_No_38.png';
+import p39 from '..\\image\\Fu_Bi_39.png';
+import p40 from '..\\image\\Fu_Me_40.png';
+import p41 from '..\\image\\Me_Fr_Fu_41.png';
+import p42 from '..\\image\\Me_Fr_42.png';
+import p43 from '..\\image\\No_Me_43.png';
+import p44 from '..\\image\\No_Fr_44.png';
+import p45 from '..\\image\\Lo_No_45.png';
+import p46 from '..\\image\\No_Lo_46.png';
+import p47 from '..\\image\\No_Lo_47.png';
+import p48 from '..\\image\\No_48.png';
+import p49 from '..\\image\\No_Lo_49.png';
+import p50 from '..\\image\\Fu_Me_50.png';
+import p51 from '..\\image\\Lo_51.png';
+import p52 from '..\\image\\Fu_No_52.png';
+import p53 from '..\\image\\Fu_Fr_No_53.png';
+import p54 from '..\\image\\Lo_No_54.png';
+import p55 from '..\\image\\Ki_55.png';
+import p56 from '..\\image\\No_56.png';
+import p57 from '..\\image\\Fu_57.png';
+import p58 from '..\\image\\Fu_No_Lo_58.png';
+import p59 from '..\\image\\No_Me_Fu_Fr_59.png';
+import p60 from '..\\image\\Me_No_60.png';
+import p61 from '..\\image\\Fr_Bi_61.png';
+import p62 from '..\\image\\Pe_62.png';
+import p63 from '..\\image\\Bi_63.png';
+import p64 from '..\\image\\Pe_64.png';
+import p65 from '..\\image\\Pe_65.png';
+import p66 from '..\\image\\Bi_Fu_66.png';
+import p67 from '..\\image\\Me_Fr_No_67.png';
+import p68 from '..\\image\\Me_68.png';
+import p69 from '..\\image\\Me_Wo_69.png';
+import p70 from '..\\image\\Bi_Ye_70.png';
+import p71 from '..\\image\\No_Me_Fr_Wo_71.png';
+import p72 from '..\\image\\Me_Ki_Fu_72.png';
+import p73 from '..\\image\\Ki_Bi_73.png';
+import p74 from '..\\image\\Lo_Me_Ye_No_Fu_74.png';
+import p75 from '..\\image\\Me_Fu_75.png';
+import p76 from '..\\image\\Me_Fu_Fr_Ye_76.png';
+import p77 from '..\\image\\Fu_Me_77.png';
+import p78 from '..\\image\\Fu_Fr_Wo_78.png';
+import p79 from '..\\image\\Me_Fr_79.png';
+import p80 from '..\\image\\Me_Fr_80.png';
+import p81 from '..\\image\\Lo_Fu_No_81.png';
+import p82 from '..\\image\\Me_Fr_Wo_82.png';
+import p83 from '..\\image\\Ki_Me_Fu_83.png';
+import p84 from '..\\image\\Fr_No_Me_84.png';
+import p85 from '..\\image\\Fr_Me_85.png';
+import p86 from '..\\image\\Lo_Fu_86.png';
+import p87 from '..\\image\\Ki_Fu_No_87.png';
+import p88 from '..\\image\\Lo_No_88.png';
+import p89 from '..\\image\\No_Me_Fr_89.png';
+import p90 from '..\\image\\Me_Fr_90.png';
+import p91 from '..\\image\\Me_No_Ye_91.png';
+import p92 from '..\\image\\Me_Ki_92.png';
+import p93 from '..\\image\\Me_Fr_Wo_93.png';
+import p94 from '..\\image\\Me_Fr_Wo_94.png';
+import p95 from '..\\image\\Me_Fr_95.png';
+import p96 from '..\\image\\Me_Fr_96.png';
+import p97 from '..\\image\\Me_Fr_97.png';
+import p98 from '..\\image\\Lo_Me_Fr_98.png';
+import p99 from '..\\image\\Pe_99.png';
+import p100 from '..\\image\\Me_Fr_100.png';
+import p101 from '..\\image\\Me_Fu_101.png';
+import p102 from '..\\image\\Bi_Fu_102.png';
+import p103 from '..\\image\\Fu_Lo_103.png';
+import p104 from '..\\image\\Fr_Me_104.png';
+import p105 from '..\\image\\Fr_Me_105.png';
+import p106 from '..\\image\\Pe_106.png';
+import p107 from '..\\image\\Pe_107.png';
+import p108 from '..\\image\\Fu_108.png';
+import p109 from '..\\image\\Me_Fr_109.png';
+import p110 from '..\\image\\Me_Fr_110.png';
+import p111 from '..\\image\\Fu_Me_Fr_111.png';
+
+//%%%%%%      %%%%%%   %%%%%%%%      %%%%%%%%%%%%%%
+//%%%%%%    %%%%%%    %%%%%%%%      %%%%%%%%%%%%%%%
+//%%%%%%   %%%%%%   %%%%%%%%%%     %%%%%%    %%%%%%
+//%%%%%  %%%%%%    %%%%% %%%%%    %%%%%%%%%%%%%%%  
+//%%%%% %%%%%    %%%%%%  %%%%%    %%%%%%%%%%%%     
+//%%%%%%%%%%   %%%%%%%%%%%%%%%   %%%%%  %%%%%%%    
+//%%%%%%%%    %%%%%%%%%%%%%%%%  %%%%%%   %%%%%%    
+//%%%%%%%   %%%%%%      %%%%%% %%%%%%    %%%%%% 
+
+
+
+export const postalname =[p0,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23,p24,p25,p26,p27,p28,p29,p30,p31,p32,p33,p34,p35,p36,p37,p38,p39,p40,p41,p42,p43,p44,p45,p46,p47,p48,p49,p50,p51,p52,p53,p54,p55,p56,p57,p58,p59,p60,p61,p62,p63,p64,p65,p66,p67,p68,p69,p70,p71,p72,p73,p74,p75,p76,p77,p78,p79,p80,p81,p82,p83,p84,p85,p86,p87,p88,p89,p90,p91,p92,p93,p94,p95,p96,p97,p98,p99,p100,p101,p102,p103,p104,p105,p106,p107,p108,p109,p110,p111];
+
+export const total_record = 111;
+export       const imageNames = {
+  [ p1] :  'To_1',
+  [ p2] :  'To_2',
+  [ p3] :  'To_3',
+  [ p4] :  'To_4',
+  [ p5] :  'To_5',
+  [ p6] :  'To_6',
+  [ p7] :  'To_7',
+  [ p8] :  'To_8',
+  [ p9] :  'To_9',
+  [ p10] :  'To_10',
+  [ p11] :  'Pe_11',
+  [ p12] :  'No_12',
+  [ p13] :  'Bi_13',
+  [ p14] :  'No_14',
+  [ p15] :  'No_15',
+  [ p16] :  'No_16',
+  [ p17] :  'No_17',
+  [ p18] :  'Me_No_18',
+  [ p19] :  'No_19',
+  [ p20] :  'No_20',
+  [ p21] :  'No_Ki_21',
+  [ p22] :  'Ki_22',
+  [ p23] :  'No_23',
+  [ p24] :  'Fr_Me_24',
+  [ p25] :  'No_Me_25',
+  [ p26] :  'Fr_Me_26',
+  [ p27] :  'Me_Fu_27',
+  [ p28] :  'Me_No_28',
+  [ p29] :  'Me_29',
+  [ p30] :  'Me_30',
+  [ p31] :  'Fu_No_31',
+  [ p32] :  'No_Fu_32',
+  [ p33] :  'Fr_Me_No_33',
+  [ p34] :  'No_34',
+  [ p35] :  'Fu_No_35',
+  [ p36] :  'Fu_36',
+  [ p37] :  'Fr_Fu_Me_No_37',
+  [ p38] :  'Lo_No_38',
+  [ p39] :  'Fu_Bi_39',
+  [ p40] :  'Fu_Me_40',
+  [ p41] :  'Me_Fr_Fu_41',
+  [ p42] :  'Me_Fr_42',
+  [ p43] :  'No_Me_43',
+  [ p44] :  'No_Fr_44',
+  [ p45] :  'Lo_No_45',
+  [ p46] :  'No_Lo_46',
+  [ p47] :  'No_Lo_47',
+  [ p48] :  'No_48',
+  [ p49] :  'No_Lo_49',
+  [ p50] :  'Fu_Me_50',
+  [ p51] :  'Lo_51',
+  [ p52] :  'Fu_No_52',
+  [ p53] :  'Fu_Fr_No_53',
+  [ p54] :  'Lo_No_54',
+  [ p55] :  'Ki_55',
+  [ p56] :  'No_56',
+  [ p57] :  'Fu_57',
+  [ p58] :  'Fu_No_Lo_58',
+  [ p59] :  'No_Me_Fu_Fr_59',
+  [ p60] :  'Me_No_60',
+  [ p61] :  'Fr_Bi_61',
+  [ p62] :  'Pe_62',
+  [ p63] :  'Bi_63',
+  [ p64] :  'Pe_64',
+  [ p65] :  'Pe_65',
+  [ p66] :  'Bi_Fu_66',
+  [ p67] :  'Me_Fr_No_67',
+  [ p68] :  'Me_68',
+  [ p69] :  'Me_Wo_69',
+  [ p70] :  'Bi_Ye_70',
+  [ p71] :  'No_Me_Fr_Wo_71',
+  [ p72] :  'Me_Ki_Fu_72',
+  [ p73] :  'Ki_Bi_73',
+  [ p74] :  'Lo_Me_Ye_No_Fu_74',
+  [ p75] :  'Me_Fu_75',
+  [ p76] :  'Me_Fu_Fr_Ye_76',
+  [ p77] :  'Fu_Me_77',
+  [ p78] :  'Fu_Fr_Wo_78',
+  [ p79] :  'Me_Fr_79',
+  [ p80] :  'Me_Fr_80',
+  [ p81] :  'Lo_Fu_No_81',
+  [ p82] :  'Me_Fr_Wo_82',
+  [ p83] :  'Ki_Me_Fu_83',
+  [ p84] :  'Fr_No_Me_84',
+  [ p85] :  'Fr_Me_85',
+  [ p86] :  'Lo_Fu_86',
+  [ p87] :  'Ki_Fu_No_87',
+  [ p88] :  'Lo_No_88',
+  [ p89] :  'No_Me_Fr_89',
+  [ p90] :  'Me_Fr_90',
+  [ p91] :  'Me_No_Ye_91',
+  [ p92] :  'Me_Ki_92',
+  [ p93] :  'Me_Fr_Wo_93',
+  [ p94] :  'Me_Fr_Wo_94',
+  [ p95] :  'Me_Fr_95',
+  [ p96] :  'Me_Fr_96',
+  [ p97] :  'Me_Fr_97',
+  [ p98] :  'Lo_Me_Fr_98',
+  [ p99] :  'Pe_99',
+  [ p100] :  'Me_Fr_100',
+  [ p101] :  'Me_Fu_101',
+  [ p102] :  'Bi_Fu_102',
+  [ p103] :  'Fu_Lo_103',
+  [ p104] :  'Fr_Me_104',
+  [ p105] :  'Fr_Me_105',
+  [ p106] :  'Pe_106',
+  [ p107] :  'Pe_107',
+  [ p108] :  'Fu_108',
+  [ p109] :  'Me_Fr_109',
+  [ p110] :  'Me_Fr_110',
+  [ p111] :  'Fu_Me_Fr_111',
+
+
+}

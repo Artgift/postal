@@ -1,0 +1,681 @@
+
+.download-btn {
+  position: fixed;
+  top: 60px;
+  right: 60px;
+}
+
+
+
+
+.permanent-div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 1rem;
+  z-index: 999;
+  opacity:70 ;
+  
+}
+
+.invo {
+  font-size : 30px;
+  padding: 15px 20px; 
+  background-color: #10768e;
+  color: #fff;
+  border: none;
+  margin-right: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+  top: 100;
+  left: 50;
+ }
+
+
+
+ .invov4 {
+  position: absolute;
+  font-size : 20px;
+  padding: 15px 20px; 
+  background-color: #10768e;
+  color: #fff;
+  border: none;
+  margin-right: 15px;
+  margin-left: 1215px;
+  cursor: pointer;
+  top: 100;
+  left: 90;
+ }
+
+
+ .invov5 {
+  position: absolute;
+  font-size : 20px;
+  padding: 15px 20px; 
+  background-color: #10768e;
+  color: #fff;
+  border: none;
+  margin-right: 15px;
+  margin-left: 1215px;
+  cursor: pointer;
+  top: 100;
+  left: 90;
+ }
+
+
+ .invov {
+  font-size : 10px;
+  padding: 2px 2px; 
+  background-color: #05404d;
+  color: #fff;
+  border: none;
+  margin-right: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+  top: 100;
+  left: 50;
+ }
+
+
+ .invov2 {
+  font-size : 22px;
+  padding: 2px 2px; 
+  background-color: #05404d;
+  color: #fff;
+  border: none;
+  margin-top: 12px;
+  margin-left: 3px;
+  cursor: pointer;
+  border-radius: 5px;
+  top: 10;
+  left: 90;
+ }
+
+
+
+
+ .kesh {
+  font-size : 30px;
+  padding: 15px 20px; 
+   border: none;
+  margin-right: 15px;
+  margin-left: 15px;
+   top: 0px;
+   right: 60px;
+   position: absolute;
+   top: 22%;
+   left:80%;
+ }
+
+
+
+.tit1
+{
+  font-family: Impact;
+  text-align: left;
+  position: absolute;
+  top: 34%;
+  left:40%;
+  font-size : 66px;
+  color: #b61b4c
+  
+}
+
+.tot
+{
+  font-family: Arial;
+  text-align: left;
+  position: absolute;
+  top: 60%;
+  left:20%;
+  font-size : 44px;
+  color: #b61b4c
+  
+}
+
+
+
+tit1
+{
+  font-family: Impact;
+  text-align: left;
+  position: absolute;
+  top: 34%;
+  left:40%;
+  font-size : 66px;
+  color: #b61b4c
+  
+}
+
+
+.tit2
+{
+  text-align: left;
+  position: absolute;
+  top: 48%;
+  left: 40%;
+  font-size : 32px;
+  color: #ffffff
+  
+}
+
+.tit3
+{
+  text-align: left;
+  position: absolute;
+  font-size : 32px;
+  top: 58%;
+  left:40%;
+  color: #ffffff
+  
+}
+
+
+.tit4
+{
+  text-align: left;
+  position: absolute;
+  font-size : 32px;
+  top: 68%;
+  left:40%;
+  color: #ffffff
+  
+}
+
+.tit5
+{
+  text-align: left;
+  position: absolute;
+  font-size : 32px;
+  top: 78%;
+  left:40%;
+  color: #ffffff
+  
+}
+
+.tix
+{
+  text-align: left;
+  position: absolute;
+  font-size : 32px;
+  left:40%;
+  color: #701818
+  
+}
+
+
+
+.titb
+{
+  font-family: Impact;
+  text-align: left;
+  left:90%;
+ 
+  font-size : 66px;
+  color: #b61b4c
+  
+}
+
+
+.tixi
+{
+  text-align: left;
+  position: absolute;
+  font-size : 80px;
+  left:45%;
+  top : 20%;
+  color: #36e30f
+  
+}
+
+.tixi2
+{
+  text-align: left;
+  position: absolute;
+  font-size : 30px;
+  width: 12;
+
+  left:80%;
+  top : 90%;
+  color: #d7cece
+  
+}
+
+.btn {
+  font-size : 69px;
+  padding: 15px 20px; 
+  background-color: "#222222";;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  margin-right: 1px;
+  margin-left:  1px;
+  cursor: pointer;
+ }
+
+
+ .btnp {
+  font-size : 69px;
+  padding: 15px 20px; 
+  background-color:  "#222222";
+  color: #fff;
+  border: none;
+  margin-right: 21px;
+  margin-left: 1px;
+  cursor: pointer;
+ }
+
+
+ .adi {
+  font-size : 55px;
+  padding: 15px 20px; 
+  background-color: "#222222";
+  color: #fff;
+  border: none;
+  margin-right: 21px;
+  margin-left: 1px;
+  cursor: pointer;
+ }
+
+ .adii {
+  font-size : 34px;
+  padding: 15px 20px; 
+  background-color: #8a0505;
+  color: #fff;
+  border: none;
+  margin-right: 21px;
+  margin-left: 15px;
+  cursor: pointer;
+ }
+
+
+
+
+ input[type="checkbox"] {
+  width: 34px;  
+  height: 34px;
+  
+}
+
+.hid1 {
+  color: #fff;
+  font-size: 1px;
+}
+
+
+.fo22 {
+  color: #1f025d;
+  font-size: 25px;
+  padding: 0px 0px;
+  
+}
+
+.hid2 {
+  color: #fff;
+  font-size: 2px;
+}
+
+.hid4 {
+  color: #fff;
+  font-size: 4px;
+}
+
+
+.r-input {
+  position: absolute;
+  width: 4px; /* Adjust the width as needed */
+  height: 4px; /* Adjust the width as needed */
+  padding: 22px;
+  font-size: 22px;
+  left:50%;
+  top : 7%;
+}
+
+
+.r2-input {
+  position: absolute;
+  width: 4px; /* Adjust the width as needed */
+  height: 4px; /* Adjust the width as needed */
+  padding: 22px;
+  font-size: 22px;
+  left:50%;
+  top : 19%;
+}
+
+
+.r3-input {
+  position: absolute;
+  width: 314px; /* Adjust the width as needed */
+  height: 2px; /* Adjust the width as needed */
+  padding: 22px;
+  font-size: 22px;
+  left:11%;
+  top : 87%;
+}
+
+
+
+.large-input {
+  width: 220px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the width as needed */
+  padding: 22px;
+  width : 260px ;
+  font-size: 22px;
+  
+}
+
+
+ .label
+  {
+  
+    position: absolute;
+    font-size : 33px;
+    left:60%;
+    top : 77%;
+        
+  display: inline-block;
+  padding: 10px 40px;
+  background-color: rgb(47, 43, 43);
+  color:rgb(102, 103, 103);
+  border-radius: 10px;
+  cursor: pointer;
+  
+ }
+ 
+ .totselect
+ {
+ 
+   position: absolute;
+   font-size : 133px;
+   left:20%;
+   top : 77%;
+ padding: 10px 20px;
+ color:rgb(185, 236, 236);
+ cursor: pointer;
+ 
+}
+
+
+ .label {
+  background-color: rgb(69, 68, 70);
+ }
+ 
+ label:hover {
+  background-color: rgb(131, 131, 131);
+ }
+
+ label {
+  transition: background-color 0.4s; 
+ }
+  
+input:checked + span{  color: rgb(8, 189, 23); }
+
+.msgBox {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: auto;
+  bottom: auto;
+  transform: translate(-50%, -50%);
+  background: rgb(157, 19, 19);
+  color: rgb(243, 243, 243);
+
+  padding: 20px;
+  border: 1px solid #a25252;
+  border-radius: 7px;
+    outline: none;
+}
+
+.msgBoxOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(63, 216, 122, 0.75);
+}
+
+
+.mdiv button {
+  margin: 20 auto; /* Centers the container horizontally */
+  max-width: 260px; /* Limits the maximum width of the container */
+  padding: 7px; /* Adds padding inside the container */
+  background-color: #1d5a61; /* Sets a light background color */
+  border: 2px solid #ccc; /* Adds a border around the container */
+  border-radius: 5px; /* Rounds the corners of the container */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow effect */
+  font-size: 12;
+}
+
+
+
+
+
+.mdiv2 {
+  margin: 20 auto; /* Centers the container horizontally */
+  max-width: 100px; /* Limits the maximum width of the container */
+  padding: 2px; /* Adds padding inside the container */
+  font-size: 24px;
+ 
+  color:#0d0343;
+  
+  
+}
+
+.mdiv2 .checkbox-input {
+  margin-right: 14px; /* Adds margin between checkbox and label */
+  
+}
+
+.mdiv .checkbox-label {
+  display: flex; /* Displays checkbox and label in a row */
+  align-items: center; /* Aligns items vertically centered */
+}
+
+.imbo
+{
+
+
+  width: 300px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the width as needed */
+  background-image: url('/public/bot1.png');
+  background-size: cover;
+  background-position: center;
+  Scale: 1.1;
+  border-radius: 50%;
+  font-size: 3 rem ;
+  
+  
+  
+  opacity: .9; /* Example: Reduce opacity on hover */
+}
+
+.imbo:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+  Scale:1.2;
+} 
+
+
+.imbo2
+{
+  
+  width: 300px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the width as needed */
+  background-image: url('/public/bot2.png');
+  background-size: cover;
+  background-position: center;
+  Scale: 1.1;
+  cursor: pointer;
+  border-radius:12px ;
+  
+  opacity: .9; /* Example: Reduce opacity on hover */
+}
+
+.imbo2:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+  Scale:1.2;
+}
+
+
+.imbo3
+{
+
+  cursor: pointer;
+  width: 276px; /* Adjust the width as needed */
+  height: 123px; /* Adjust the width as needed */
+  background-image: url('/public/bot3.png');
+  background-size: cover;
+  background-position: center;
+  border-color: #36e30f;
+
+  font-size: 3 rem ;
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+
+.imbo3:hover {
+  opacity: .76; /* Example: Reduce opacity on hover */
+}
+
+
+
+.imbo4
+{
+
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot4.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+}
+
+.imbo4:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+
+
+.imbo5
+{
+
+  position: absolute;
+  top: 4%;
+  left:7.5%;
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot5.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+  
+}
+
+.imbo4:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+
+
+.imbo5
+{
+
+  
+  position: absolute;
+  top: 4%;
+  left:7.5%;
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot5.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+  
+}
+
+.imbo5:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+
+
+.imbo6
+{
+
+
+  
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot6.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+  
+}
+
+.imbo6:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+.imbo7
+{
+
+  
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot7.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+  
+}
+
+.imbo7:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+.imbo8
+{
+ 
+  cursor: pointer;
+  width: 120px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the width as needed */
+  background-image: url('/public/bot8.png');
+  background-size: cover;
+  background-position: center;
+  opacity: .95; /* Example: Reduce opacity on hover */
+  
+}
+
+.imbo8:hover {
+  opacity: 1; /* Example: Reduce opacity on hover */
+}
+
+
+
+
+
+
+
+
+
+
+.circular-button {
+  width: 50px; /* Set width and height to create a circle */
+  height: 50px;
+  border-radius: 50%; /* Border radius 50% makes it a circle */
+  border: none; /* Remove default border */
+  background-color: #007bff; /* Example background color */
+  color: white; /* Example text color */
+  font-size: 1rem; /* Example font size */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.circular-button:hover {
+  opacity: 0.8; /* Example: Reduce opacity on hover */
+}
+
+.circular-button:focus {
+  outline: none; /* Remove outline on focus */
+}
