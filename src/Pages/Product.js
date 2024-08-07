@@ -1,4 +1,4 @@
-// last edit  11 mordad 1403
+// last edit  17 mordad 1403 
 import React, { useState, useEffect } from 'react';
 import { total_record, postalname, imageNames } from './images'; // Import images and image names from a separate file
 import './Taktodo.css';
@@ -48,7 +48,7 @@ var tanzimby = "Noname";
 var tanz ="";
 var phon="";
 var pcode="????";
-var  jcode ="....empty......";
+var  jcode ;
 var comp=30;
 var Mdivh = 3600;
 var actp = 0;
@@ -96,7 +96,7 @@ const creat_Invoice = async (quant,pco,shom,darsx,coind) => {
   ly=ly-160;
 
   page.drawText("Ref.:"+String(shom), { x: 135, y: ly+10,  size: 24,  color: rgb(0, 0, 0), });
-  
+  page.drawText("Ref.:"+"تست متن فارسی ", { x: 135, y: ly+30,  size: 24,  color: rgb(0, .2, 0), });
   
   
 
@@ -311,6 +311,12 @@ const f = (x) => {
   }
 };
 
+
+
+
+
+
+
 const showpic = (x) => {
   // Define the file names
   const fileNames = {
@@ -492,11 +498,13 @@ function CodeTopdf( pco, teddi,curt ,tanz) {
       const q = "N = " + ted[1];
       const ind=Number(ted[0]);  
       
-       
+      
       
       jn = (j+1) % 3;
         if (jn === 1) {
+        
           doc.addImage(postalname[ind], 'PNG', 10, ly, 34, 48, '', 0.4);
+        
           doc.text(imageNames[postalname[ind]], 15, 60 + ly);
           doc.fontSize=5 ;
           doc.text(q, 30, 60 + ly);
@@ -783,7 +791,7 @@ function App() {
 
   
  
-  const [message, setMessage] = useState('em');
+  const [message, setMessage] = useState('');
   //setMessage(jcode);
   
 

@@ -5,6 +5,8 @@ import Hlp2 from '..\\fact\\help2.png';
 import Hlp3 from '..\\fact\\help3.png';
 import Hlp4 from '..\\fact\\help4.png';
 import Hlp5 from '..\\fact\\help5.png';
+import Hlp6 from '..\\fact\\help6.png';
+
 
 // برای اطمینان از اینکه مودال به درستی درخت DOM را پیدا می‌کند
 Modal.setAppElement('#root');
@@ -15,7 +17,7 @@ const App = ( {varoo}) => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   var images = [Hlp1, Hlp2, Hlp3, Hlp4];
-if (varoo.lastIndexOf("@")>0) images = [Hlp5];
+if (varoo.lastIndexOf("@")>0) images = [Hlp5,Hlp6];
 
   const openModal = () => {
     setModalIsOpen(true);
