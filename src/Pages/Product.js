@@ -837,7 +837,7 @@ function App() {
             type="text"
             value={myphone}
             onChange={handleInputChange2}
-            placeholder="E-mail or Mmobile"
+            placeholder="E-mail or Mobile"
             size="30"
             className="large-input"
             required
